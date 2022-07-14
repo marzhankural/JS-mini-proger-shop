@@ -9,7 +9,7 @@
 img {width: 100%;}
 
 body {
-    background: #fef3e0
+    background: #FFF0F5
 }
 
 header {
@@ -49,7 +49,7 @@ main {
 main .item {
     position: relative;
     width: 380px;
-    background: #f3bd00;
+    background: #F6768E;
     padding: 20px;
     margin-bottom: 50px;
 }
@@ -74,7 +74,7 @@ main .item h4 {
     top: 20px;
     right: 30px;
     font-size: 40px;
-    color: #8d6a05;
+    color: #D36E70;
     transition: color 500ms ease;
 }
 
@@ -108,13 +108,13 @@ main, header, footer, aside {float: left;}
     text-align: center;
     font-size: 16px;
     line-height: 70px;
-    background: #fdbd01;
+    background: #E28090;
     cursor: pointer;
     transition: background 500ms ease;
  }
 
  .shop-cart-block button.go-shop:hover {
-    background: #ff8605;
+    background: #C08081;
  }
 
  .shop-cart-block:not(.active) {display: none;}
@@ -130,7 +130,7 @@ main, header, footer, aside {float: left;}
     line-height: 50px;
     text-align: center;
     font-size: 20px;
-    background: #d93c0b;
+    background: #B3446C;
     border: 2px solid #ba3007;
     color: #fff;
     cursor: pointer;
@@ -165,7 +165,7 @@ main, header, footer, aside {float: left;}
 
 .shop-item .count button {
     border: 0;
-    background: #f3bd00;
+    background: #FFB6C1;
     width: 20px;
     height: 20px;
     line-height: 20px;
@@ -177,7 +177,7 @@ main, header, footer, aside {float: left;}
     color: #6a5106;
     transition: background 500ms ease;
 }
-.shop-item .count button:hover {background: #c19808}
+.shop-item .count button:hover {background: #DE5D83}
 
 .shop-item .count span {margin: 0 5px;}
 
